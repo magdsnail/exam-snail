@@ -1,0 +1,20 @@
+{
+  "name": "exam-wangkejing",
+  "version": "1.0.0",
+  "description": "### 笔试规则： - 使用typescript语法完成，不得使用javascript兼容写法 - 时间为24小时 - 提交到gitee master 分支 - 使用commit和markdown 记录和分享笔试过程的思考",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/linxiong-z/exam-wangkejing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/cheerio": "^0.22.31",
+    "cheerio": "^1.0.0-rc.11",
+    "ts-node": "^10.8.0"
+  }
+}
