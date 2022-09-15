@@ -1,10 +1,4 @@
-# Test Problems
-
-### 笔试规则：
-- 使用typescript语法完成，不得使用javascript兼容写法
-- 时间为24小时
-- 提交到gitee master 分支
-- 使用commit和markdown 记录和分享笔试过程的思考
+# EXAM
 
 1. 所有题目使用typescript 2.0以上版本来编写代码，不能采用javascript兼容模式
 
